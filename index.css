@@ -3,6 +3,5 @@ h1 {
   font-weight: bold;
 }
 h2 {
-  color: red;
-  font-family: "Ariel Bold";
+  font-family: "Ariel Bold" red;
 }
